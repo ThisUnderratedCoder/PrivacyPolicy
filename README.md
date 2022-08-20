@@ -1,7 +1,5 @@
-
-
-Privacy Policy for Discord Security
-Privacy Policy
+# Privacy Policy for Discord Security
+# Privacy Policy
 
 Last updated: August 20, 2022
 
@@ -14,7 +12,7 @@ Interpretation
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 Definitions
 
-For the purposes of this Privacy Policy:
+## For the purposes of this Privacy Policy:
 
     Account means a unique account created for You to access our Service or parts of our Service.
 
