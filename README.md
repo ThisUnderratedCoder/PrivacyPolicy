@@ -1,5 +1,5 @@
 # Privacy Policy for Discord Security
-# Privacy Policy
+## Privacy Policy
 
 Last updated: August 20, 2022
 
@@ -52,7 +52,7 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
     Usage Data
 
-Usage Data
+## Usage Data
 
 Usage Data is collected automatically when using the Service.
 
@@ -128,7 +128,7 @@ The Company may disclose Your Personal Data in the good faith belief that such a
     Protect the personal safety of Users of the Service or the public
     Protect against legal liability
 
-Security of Your Personal Data
+## Security of Your Personal Data
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 Children's Privacy
