@@ -99,7 +99,7 @@ We may share Your personal information in the following situations:
     With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
     With Your consent: We may disclose Your personal information for any other purpose with Your consent.
 
-Retention of Your Personal Data
+## Retention of Your Personal Data
 
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
@@ -150,7 +150,7 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 Contact Us
 
-If you have any questions about this Privacy Policy, You can contact us:
+### If you have any questions about this Privacy Policy, You can contact us:
 
     By visiting this page on our website: https://discord.gg/P8MaKcqskU
 
